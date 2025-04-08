@@ -1,4 +1,17 @@
+<h1 align="center">Hi 👋, I'm K C Darshan</h1>
+<h3 align="center">A Passionate Data Science & Full-Stack Enthusiast from Bengaluru, India</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darshan3131&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/cdarshan38905" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/cdarshan38905?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
+
+---
 
 ### 🧠 About Me
 
@@ -39,7 +52,7 @@
 
 - **Seaborn ICC T20 2024 Dataset**: Compiled detailed statistics from the ICC Men's T20 World Cup 2024 for in-depth analysis. [Repository Link](https://github.com/darshan3131/Seaborn-ICC-T20-2024-Dataset) [oai_citation_attribution:2‡GitHub](https://github.com/darshan3131/Seaborn-ICC-T20-2024-Dataset?utm_source=chatgpt.com)
 
-- **Tic-Tac-Toe Game**: Built a classic Tic-Tac-Toe game using React. [Repository Link](https://github.com/darshan3131/Tic-Tac-toe-)
+- **Tic-Tac-Toe Game**: Built a classic Tic-Tac-Toe game using React. [Repository Link](https://github.com/darshan3131/Tic-Tac-toe-) [oai_citation_attribution:3‡GitHub](https://github.com/darshan3131/Tic-Tac-toe-?utm_source=chatgpt.com)
 
 ---
 
