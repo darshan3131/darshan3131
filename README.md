@@ -46,28 +46,32 @@
 
 - **Sentiment Analysis**: Explored various NLP techniques, including traditional models and BERT, for sentiment analysis. [Repository Link](https://github.com/darshan3131/Senttiment_analysis)
 
-- **Heart Disease Prediction**: Developed a logistic regression model to predict the presence of heart disease based on medical attributes. [Repository Link](https://github.com/darshan3131/Heart-diesease-Prediction) [oai_citation_attribution:0‡GitHub](https://github.com/darshan3131/Heart-diesease-Prediction?utm_source=chatgpt.com)
+- **Heart Disease Prediction**: Developed a logistic regression model to predict the presence of heart disease based on medical attributes. [Repository Link](https://github.com/darshan3131/Heart-diesease-Prediction)
 
-- **Battery Analysis**: Analyzed Li-ion battery aging using Electrochemical Impedance Spectroscopy (EIS) and machine learning. [Repository Link](https://github.com/darshan3131/Battery_Analysis) [oai_citation_attribution:1‡GitHub](https://github.com/darshan3131/Battery_Analysis?utm_source=chatgpt.com)
+- **Battery Analysis**: Analyzed Li-ion battery aging using Electrochemical Impedance Spectroscopy (EIS) and machine learning. [Repository Link](https://github.com/darshan3131/Battery_Analysis)
 
-- **Seaborn ICC T20 2024 Dataset**: Compiled detailed statistics from the ICC Men's T20 World Cup 2024 for in-depth analysis. [Repository Link](https://github.com/darshan3131/Seaborn-ICC-T20-2024-Dataset) [oai_citation_attribution:2‡GitHub](https://github.com/darshan3131/Seaborn-ICC-T20-2024-Dataset?utm_source=chatgpt.com)
+- **Seaborn ICC T20 2024 Dataset**: Compiled detailed statistics from the ICC Men's T20 World Cup 2024 for in-depth analysis. [Repository Link](https://github.com/darshan3131/Seaborn-ICC-T20-2024-Dataset)
 
-- **Tic-Tac-Toe Game**: Built a classic Tic-Tac-Toe game using React. [Repository Link](https://github.com/darshan3131/Tic-Tac-toe-) [oai_citation_attribution:3‡GitHub](https://github.com/darshan3131/Tic-Tac-toe-?utm_source=chatgpt.com)
+- **Tic-Tac-Toe Game**: Built a classic Tic-Tac-Toe game using React. [Repository Link](https://github.com/darshan3131/Tic-Tac-toe-)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshan3131&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darshan3131&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan3131&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan3131&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan3131" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan3131&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=darshan3131&theme=onedark&row=1&column=6" alt="Trophy" />
 </p>
 
 ---
@@ -86,4 +90,5 @@
   </a>
   <a href="https://medium.com/@darshansiddarth05" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </ 
+  </a>
+</p>
