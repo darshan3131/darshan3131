@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently interning as a **Software Developer Intern at Finmo** (Backend – NestJS, MySQL, Kafka)  
+- 🔭 Currently Scaling my skills in AI and machine learning (Backend – NestJS, MySQL, Kafka)  
 - 🌱 Exploring **Agentic AI, Distributed Systems, and Retrieval-Augmented Generation (RAG)**  
 - 🤝 Open to collaborations on **AI/ML and scalable backend projects**  
 - 💡 Passionate about building **intelligent, fault-tolerant systems** that solve real-world problems  
