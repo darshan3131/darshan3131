@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 🔭 Building expertise in **AI, Machine Learning, and Scalable Backends** (NestJS, MySQL, Kafka)  
-- ✅ **Completed Avinash Kumar’s GenAI Path** (Pydantic · RAG · Agents · MCP · LLMs)  
+- ✅ **Completed GenAI Path** (Pydantic · RAG · Agents · MCP · LLMs)  
 - 🤝 Open to collaborations on **AI/ML and backend systems**  
 - 💡 Passionate about creating **fault-tolerant, intelligent, production-grade systems**  
 - 📫 Reach me at: **darshansiddarth05@gmail.com**  
