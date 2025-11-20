@@ -1,99 +1,96 @@
-<h1 align="center">Hi 👋, I'm K C Darshan</h1>
-<h3 align="center">Aspiring Software Development Engineer | AI & Full-Stack Enthusiast from Bengaluru, India</h3>
+# Hi 👋, I'm K C Darshan
+### Aspiring Software Development Engineer | Generative AI & Full-Stack Engineer from Bengaluru, India
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darshan3131&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/darshan-kc-531484245/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:darshansiddarth05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/darshan3131?tab=repositories">
+    <img src="https://img.shields.io/badge/Portfolio-View_Repos-brightgreen?style=flat&logo=github" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/YOUR_RESUME_FILE_ID/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-Download-blueviolet?style=flat&logo=google-drive" alt="Resume" />
+  </a>
 </p>
 
----
+> Building intelligent, scalable systems at the intersection of **Generative AI** and **Enterprise Full-Stack Development**.
 
 ### 🧠 About Me
-
-- 🔭 Building expertise in **AI, Machine Learning, and Scalable Backends** (NestJS, MySQL, Kafka)  
-- ✅ **Completed GenAI Path** (Pydantic · RAG · Agents · MCP · LLMs)  
-- 🤝 Open to collaborations on **AI/ML and backend systems**  
-- 💡 Passionate about creating **fault-tolerant, intelligent, production-grade systems**  
-- 📫 Reach me at: **darshansiddarth05@gmail.com**  
-- 💻 Explore my work: [Project Portfolio](https://shorturl.at/I1Tkd)  
-- 📝 Read my blogs: [Medium](https://medium.com/@darshansiddarth05)  
-- 📄 View my resume: [Resume](https://shorturl.at/zQhJg)  
-- ⚡ Fun Fact: *Once tuned an ML model so well, it predicted prices better than my mom bargaining at the market!*  
-
----
+- 🔭 Mastered the complete **Generative AI pathway** (Pydantic → RAG → Agents → MCP → LLMs)
+- 🌱 Currently deepening expertise in **Java Full Stack Development**:
+  - Core & Advanced Java • JDBC • Spring Boot • Spring MVC • Hibernate • REST APIs
+  - Frontend: HTML • CSS • JavaScript • React (learning)
+- ⚡ Passionate about **fault-tolerant backends** and **AI-powered applications**
+- 📫 Reach me: **darshansiddarth05@gmail.com**
+- ⚡ Fun Fact: *My AI agent once rewrote a document so elegantly, it got more compliments than my college project report!*
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-
-  <!-- Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-
-  <!-- DevOps & Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>
+<p align="center">
+  <!-- Row 1: Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="Java" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="HTML5" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <br><br>
+  <!-- Row 2: Frameworks & Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50" alt="Spring" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="50" alt="FastAPI" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="50" alt="NestJS" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50" alt="React" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
+  <br><br>
+  <!-- Row 3: Databases & ORM -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" height="50" alt="Hibernate" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" alt="Git" />
+  <br><br>
+  <!-- Row 4: AI & Tools -->
+  <img src="https://img.shields.io/badge/LangChain-Advanced-brightgreen?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/OpenAI-GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LangGraph-Stateful_Agents-blue?style=for-the-badge" alt="LangGraph" />
 </p>
 
----
+### 🔥 Featured Projects
 
-### 📂 Featured GenAI Projects  
+| Project                        | Description                                                                                  | Tech Stack                              | Link                                           |
+|-------------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------|------------------------------------------------|
+| **Drafter-AI**                | Stateful AI document editor with natural language commands (LangGraph + GPT-4o)             | LangChain • LangGraph • OpenAI          | [Repo ↗](https://github.com/darshan3131/Drafter-AI) |
+| **LangGraph AI Agents**       | Hands-on projects building stateful multi-actor AI agents with LangGraph workflows          | LangGraph • LangChain • Python          | [Repo ↗](https://github.com/darshan3131/langgraph-ai-agents) |
+| **Prices-Predictor-System**   | Production-grade ML pipeline with MLflow tracking & deployment (Live Demo: Colab Notebook)  | Scikit-learn • MLflow • Pandas          | [Repo ↗](https://github.com/darshan3131/Prices-Predictor-System) \| [Live Demo](https://colab.research.google.com/drive/1NiD21-Ug8oYwrih0zY4SvLCZVIUovfCa) |
+| **SketchifyMe**               | Real-time photo to pencil sketch converter (OpenCV)                                          | OpenCV • Python                         | [Repo ↗](https://github.com/darshan3131/SketchifyMe) |
+| **java-codex**                | Clean, structured reference for mastering core & advanced Java concepts                     | Java SE                                 | [Repo ↗](https://github.com/darshan3131/java-codex) |
 
-- **📦 Pydantic for LLM Workflows** → Data validation + structured outputs for LLM pipelines. [Repo Soon]  
-- **📚 RAG Chatbot** → Ask questions on your own docs (vector search + LLM). [Repo Soon]  
-- **🤖 Multi-Agent AI Assistant** → Autonomous task handling using tool-calling. [Repo Soon]  
-- **🧩 MCP Integration** → Built an AI app with custom context and external API calls. [Repo Soon]  
+### 📜 Certifications & Achievements
 
----
+| Category              | Certificate/Project                  | Details                                                                 | Link                                                                 |
+|-----------------------|--------------------------------------|-------------------------------------------------------------------------|----------------------------------------------------------------------|
+| **DeepLearning.AI**  | MCP: Build Rich-Context AI Apps with Anthropic | Focus: Rich-context AI applications with MCP                            | [View Certificate ↗](https://learn.deeplearning.ai/accomplishments/9867c1bd-55fd-4df0-9757-d01c23972d0f?usp=sharing) |
+| **DeepLearning.AI**  | Pydantic for LLM Workflows          | Skills: Data validation and structured outputs for LLMs                 | [View Certificate ↗](https://learn.deeplearning.ai/accomplishments/fd910039-3511-4efe-8adc-80737b67380a?usp=sharing) |
+| **Coursera**         | Retrieval-Augmented Generation (RAG)| Building AI applications with vector search and LLMs                   | [View Certificate ↗](https://drive.google.com/file/d/18Hulnp_AVhPfav7dFW-E9v7pUPmbSzAf/view?usp=share_link) |
+| **Internship**       | Varcons Technologies                | Software Development Internship                                         | [View Certificate ↗](https://drive.google.com/file/d/1EOS7cnMfu0_EasRj0V94GG6IukP5i2yg/view?usp=sharing) |
+| **Internship**       | Finmo                               | Software Engineering Internship                                         | [View Certificate ↗](https://drive.google.com/file/d/1KuRAAZS0p3rQ8WUjwNw5f8i_ibXtpAtS/view?usp=share_link) |
+| **Internship**       | Bhrighu Technologies                | Software Development Internship                                         | [View Certificate ↗](https://drive.google.com/file/d/1hnj2cKKR9u1IbpZheeYiZ6hkkAw5T6rz/view?usp=sharing) |
+| **Udemy**            | MERN Stack Development              | Full-Stack Web Development with MongoDB, Express, React & Node.js       | [View Certificate ↗](https://drive.google.com/file/d/1hnj2cKKR9u1IbpZheeYiZ6hkkAw5T6rz/view?usp=sharing) |
+| **Udemy**            | Python Bootcamp                     | Complete Python Programming Fundamentals                                | [View Certificate ↗](https://drive.google.com/file/d/1qF7M4k3QCvyw4pHCX6Tb2yxn4uE1RSws/view?usp=share_link) |
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshan3131&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan3131&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan3131&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darshan3131&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan3131&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" />
 </p>
 
 ---
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/darshan-kc-531484245/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/cdarshan38905" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@darshansiddarth05" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-  <a href="https://dev.to/k_cdarshan_8b992d2e54175" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
-  </a>
-</p>
+**Actively preparing for SDE & Full-Stack roles (Java | Spring Boot | GenAI)**  
+Open to opportunities in Bengaluru or remote. Let's build the future together! 🚀
