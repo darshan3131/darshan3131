@@ -2,7 +2,7 @@
 
 # K C Darshan
 
-### SDE-1 Candidate · Java Backend & Spring Boot · Bengaluru, India
+### Software Engineer · Java · Spring Boot · Full Stack · Bengaluru, India
 
 <p>
   <a href="https://www.linkedin.com/in/darshan-kc-531484245/">
@@ -28,7 +28,7 @@
 
 ## About
 
-Full-stack software engineer with a B.E. in Computer Science (VTU, 2026), actively targeting **SDE-1 Java backend roles** at product-based companies.
+Full-stack software engineer with a B.E. in Computer Science (VTU, 2026), actively targeting **Software Engineering roles** at product-based companies.
 
 - 🏗️ Currently building production-grade Java systems — Spring Boot · Spring MVC · Hibernate · JDBC · REST APIs
 - 🤖 Prior experience building **Generative AI pipelines** — RAG, LangGraph agents, MCP, structured LLM outputs
@@ -46,6 +46,8 @@ Full-stack software engineer with a B.E. in Computer Science (VTU, 2026), active
 ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-REST%20%2F%20CRUD-6DB33F?logo=spring&logoColor=white&style=flat-square)
 ![Hibernate](https://img.shields.io/badge/Hibernate-JPA%20%2F%20ORM-59666C?logo=hibernate&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-JDBC%20%2F%20JdbcTemplate-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-Cache%20%2F%20OTP-DC382D?logo=redis&logoColor=white&style=flat-square)
+![Kafka](https://img.shields.io/badge/Kafka-Event%20Streaming-231F20?logo=apachekafka&logoColor=white&style=flat-square)
 
 **AI & Python**
 
@@ -59,7 +61,7 @@ Full-stack software engineer with a B.E. in Computer Science (VTU, 2026), active
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-NestJS-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/React-Learning-61DAFB?logo=react&logoColor=black&style=flat-square)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white&style=flat-square)
 
@@ -69,11 +71,11 @@ Full-stack software engineer with a B.E. in Computer Science (VTU, 2026), active
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
+| **PayLedger** | Enterprise payment system — double-entry ledger, OTP-gated transfers, multi-currency FX, Kafka transactional outbox, optimistic locking, 3 role-separated React portals. Live demo with Customer, Backoffice & Admin portals. | Java 17 · Spring Boot 3 · Spring Security + JWT · JPA · TiDB (MySQL) · Redis · Kafka · React 18 · Vite | [Repo ↗](https://github.com/darshan3131/payment-ledger) · [Live ↗](https://payment-ledger-6rqk.vercel.app) |
 | **springboot-rest-api** | Production-grade REST API with Spring Boot 4, MySQL datasource config, layered architecture (Controller → Service → Repository) | Java 17 · Spring Boot · MySQL · Maven | [Repo ↗](https://github.com/darshan3131/springboot_rest_api) |
 | **Drafter-AI** | Stateful AI document editor — natural language commands drive multi-step editing via LangGraph state machines | LangGraph · LangChain · OpenAI GPT-4o | [Repo ↗](https://github.com/darshan3131/Drafter-AI) |
 | **LangGraph AI Agents** | Hands-on agentic workflows: multi-actor graphs, state management, conditional routing, tool-calling agents | LangGraph · LangChain · Python | [Repo ↗](https://github.com/darshan3131/langgraph-ai-agents) |
 | **Prices-Predictor-System** | End-to-end ML pipeline with MLflow experiment tracking, modular preprocessing, and deployment-ready inference | Scikit-learn · MLflow · Pandas | [Repo ↗](https://github.com/darshan3131/Prices-Predictor-System) · [Demo ↗](https://colab.research.google.com/drive/1NiD21-Ug8oYwrih0zY4SvLCZVIUovfCa) |
-| **java-codex** | Structured, annotated Java reference for interview prep — Core Java through Streams, Collections, and OOP patterns | Java SE | [Repo ↗](https://github.com/darshan3131/java-codex) |
 | **SketchifyMe** | Real-time photo → pencil sketch converter using OpenCV image processing pipeline | OpenCV · Python | [Repo ↗](https://github.com/darshan3131/SketchifyMe) |
 
 ---
@@ -116,8 +118,8 @@ Full-stack software engineer with a B.E. in Computer Science (VTU, 2026), active
 
 <div align="center">
 
-**Actively interviewing for SDE-1 Java Backend roles in Bengaluru**  
-`Java` · `Spring Boot` · `REST APIs` · `MySQL` · `System Design`
+**Actively interviewing for SDE / Backend / Full-Stack roles in Bengaluru**  
+`Java` · `Spring Boot` · `REST APIs` · `MySQL` · `Redis` · `Kafka` · `System Design`
 
 *Let's connect → [LinkedIn](https://www.linkedin.com/in/darshan-kc-531484245/) · [Email](mailto:darshansiddarth05@gmail.com)*
 
