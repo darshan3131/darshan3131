@@ -1,8 +1,7 @@
 <div align="center">
 
 # K C Darshan
-
-### Software Engineer · Java · Spring Boot · Full Stack · Bengaluru, India
+### Software Engineer · Java · Spring Boot · GenAI · Bengaluru, India
 
 <p>
   <a href="https://www.linkedin.com/in/darshan-kc-531484245/">
@@ -13,12 +12,12 @@
     <img src="https://img.shields.io/badge/Gmail-darshansiddarth05-EA4335?logo=gmail&logoColor=white&style=flat-square" />
   </a>
   &nbsp;
-  <a href="https://github.com/darshan3131?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-darshan3131-181717?logo=github&logoColor=white&style=flat-square" />
+  <a href="https://x.com/kcdarshan3131">
+    <img src="https://img.shields.io/badge/X-kcdarshan3131-000000?logo=x&logoColor=white&style=flat-square" />
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/YOUR_RESUME_FILE_ID/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-View%20PDF-4285F4?logo=google-drive&logoColor=white&style=flat-square" />
+  <a href="https://adorable-lokum-8a5b2a.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live-00D4FF?logo=netlify&logoColor=white&style=flat-square" />
   </a>
 </p>
 
@@ -42,7 +41,7 @@ Full-stack software engineer with a B.E. in Computer Science (VTU, 2026), active
 **Core (Interview-Ready)**
 
 ![Java](https://img.shields.io/badge/Java-SE%2017-ED8B00?logo=openjdk&logoColor=white&style=flat-square)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.x-6DB33F?logo=springboot&logoColor=white&style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot&logoColor=white&style=flat-square)
 ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-REST%20%2F%20CRUD-6DB33F?logo=spring&logoColor=white&style=flat-square)
 ![Hibernate](https://img.shields.io/badge/Hibernate-JPA%20%2F%20ORM-59666C?logo=hibernate&logoColor=white&style=flat-square)
 ![MySQL](https://img.shields.io/badge/MySQL-JDBC%20%2F%20JdbcTemplate-4479A1?logo=mysql&logoColor=white&style=flat-square)
@@ -71,12 +70,14 @@ Full-stack software engineer with a B.E. in Computer Science (VTU, 2026), active
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
-| **PayLedger** | Enterprise payment system — double-entry ledger, OTP-gated transfers, multi-currency FX, Kafka transactional outbox, optimistic locking, 3 role-separated React portals. Live demo with Customer, Backoffice & Admin portals. | Java 17 · Spring Boot 3 · Spring Security + JWT · JPA · TiDB (MySQL) · Redis · Kafka · React 18 · Vite | [Repo ↗](https://github.com/darshan3131/payment-ledger) · [Live ↗](https://payment-ledger-6rqk.vercel.app) |
-| **springboot-rest-api** | Production-grade REST API with Spring Boot 4, MySQL datasource config, layered architecture (Controller → Service → Repository) | Java 17 · Spring Boot · MySQL · Maven | [Repo ↗](https://github.com/darshan3131/springboot_rest_api) |
-| **Drafter-AI** | Stateful AI document editor — natural language commands drive multi-step editing via LangGraph state machines | LangGraph · LangChain · OpenAI GPT-4o | [Repo ↗](https://github.com/darshan3131/Drafter-AI) |
-| **LangGraph AI Agents** | Hands-on agentic workflows: multi-actor graphs, state management, conditional routing, tool-calling agents | LangGraph · LangChain · Python | [Repo ↗](https://github.com/darshan3131/langgraph-ai-agents) |
+| **PayLedger** | Enterprise payment system — double-entry ledger, OTP-gated transfers, multi-currency FX, Kafka transactional outbox, optimistic locking, 3 role-separated React portals. Actively maintained — controllers and services refactored April 2026. | Java 17 · Spring Boot 3 · Spring Security + JWT · JPA · TiDB (MySQL) · Redis · Kafka · React 18 · Vite | [Repo ↗](https://github.com/darshan3131/payment-ledger) · [Live ↗](https://payment-ledger-6rqk.vercel.app) |
+| **Task-Management-API** | Production-grade REST API with Spring Boot, MySQL datasource config, layered architecture (Controller → Service → Repository), JWT auth, Swagger docs | Java 17 · Spring Boot · Spring Security · JWT · MySQL · Swagger | [Repo ↗](https://github.com/darshan3131/Task-Management-API) |
+| **Employee-Management-CRUD** | Full-stack employee records system with Hibernate/JPA ORM, Lombok, complete CRUD operations | Java 17 · Spring Boot · Hibernate/JPA · MySQL · Lombok | [Repo ↗](https://github.com/darshan3131/Employee-management-CRUD) |
+| **Drafter-AI** | Stateful AI document editor — natural language commands drive multi-step editing via LangGraph state machines. README revised Nov 2025 with full capability docs. | LangGraph · LangChain · OpenAI GPT-4o | [Repo ↗](https://github.com/darshan3131/Drafter-AI) |
+| **LangGraph AI Agents** | Hands-on agentic workflows: multi-actor graphs, state management, conditional routing, tool-calling agents. Active development Sep 2025. | LangGraph · LangChain · Python | [Repo ↗](https://github.com/darshan3131/langgraph-ai-agents) |
 | **Prices-Predictor-System** | End-to-end ML pipeline with MLflow experiment tracking, modular preprocessing, and deployment-ready inference | Scikit-learn · MLflow · Pandas | [Repo ↗](https://github.com/darshan3131/Prices-Predictor-System) · [Demo ↗](https://colab.research.google.com/drive/1NiD21-Ug8oYwrih0zY4SvLCZVIUovfCa) |
 | **SketchifyMe** | Real-time photo → pencil sketch converter using OpenCV image processing pipeline | OpenCV · Python | [Repo ↗](https://github.com/darshan3131/SketchifyMe) |
+| **book-management-system** | Book inventory and lending system | Java · Spring Boot | [Repo ↗](https://github.com/darshan3131/book-management-system) |
 
 ---
 
@@ -109,7 +110,6 @@ Full-stack software engineer with a B.E. in Computer Science (VTU, 2026), active
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan3131&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" height="160" />
 </div>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=darshan3131&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
 </div>
@@ -121,6 +121,6 @@ Full-stack software engineer with a B.E. in Computer Science (VTU, 2026), active
 **Actively interviewing for SDE / Backend / Full-Stack roles in Bengaluru**  
 `Java` · `Spring Boot` · `REST APIs` · `MySQL` · `Redis` · `Kafka` · `System Design`
 
-*Let's connect → [LinkedIn](https://www.linkedin.com/in/darshan-kc-531484245/) · [Email](mailto:darshansiddarth05@gmail.com)*
+*Let's connect → [LinkedIn](https://www.linkedin.com/in/darshan-kc-531484245/) · [Email](mailto:darshansiddarth05@gmail.com) · [Portfolio](https://adorable-lokum-8a5b2a.netlify.app)*
 
 </div>
