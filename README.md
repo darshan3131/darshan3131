@@ -1,7 +1,10 @@
 <div align="center">
 
-# K C Darshan
-### Software Engineer · Java · Spring Boot · GenAI · Bengaluru, India
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6DB33F&height=200&section=header&text=K%20C%20Darshan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20·%20Java%20·%20Spring%20Boot%20·%20GenAI&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+production-grade+Java+systems;Spring+Boot+%C2%B7+Hibernate+%C2%B7+REST+APIs;Exploring+GenAI+%C2%B7+RAG+%C2%B7+LangGraph+agents;Actively+interviewing+in+Bengaluru" alt="Typing SVG" />
+</a>
 
 <p>
   <a href="https://www.linkedin.com/in/darshan-kc-531484245/">
@@ -21,6 +24,8 @@
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=darshan3131&color=00D4FF&style=flat-square&label=Profile+Views" />
+
 </div>
 
 ---
@@ -30,8 +35,10 @@
 Full-stack software engineer with a B.E. in Computer Science (VTU, 2026), actively targeting **Software Engineering roles** at product-based companies.
 
 - 🏗️ Currently building production-grade Java systems — Spring Boot · Spring MVC · Hibernate · JDBC · REST APIs
+- 🎓 Completed intensive Java Full Stack training at **J Spiders**, Bengaluru (Nov 2025 – May 2026) — Core Java, Spring Boot 3, Hibernate, MySQL, JWT
 - 🤖 Prior experience building **Generative AI pipelines** — RAG, LangGraph agents, MCP, structured LLM outputs
 - 💼 Internship experience at **Finmo** (NestJS · TypeScript), **Bhrigu Technologies** (Data Science), **Varcons Technologies** (Software Dev)
+- 🧩 Solved **250+ algorithmic problems** across LeetCode, CodeChef, and HackerRank
 - 📍 Based in Bengaluru · Open to on-site and remote roles
 
 ---
@@ -66,6 +73,17 @@ Full-stack software engineer with a B.E. in Computer Science (VTU, 2026), active
 
 ---
 
+## Work Experience
+
+| Company | Role | Duration |
+|---------|------|----------|
+| **J Spiders** | Java Full Stack Trainee — Bengaluru | Nov 2025 – May 2026 |
+| **Finmo** | Software Developer Intern · NestJS · TypeScript | May 2025 – Jul 2025 |
+| **Bhrigu Academy of E-Learning** | Data Science Intern — Remote | Sep 2024 – Jan 2025 |
+| **Varcons Technologies** | Research & Development Intern | — |
+
+---
+
 ## Featured Projects
 
 | Project | Description | Stack | Link |
@@ -93,13 +111,19 @@ Full-stack software engineer with a B.E. in Computer Science (VTU, 2026), active
 
 ---
 
-## Internship Experience
+## Internship Certificates
 
 | Company | Role | Certificate |
 |---------|------|-------------|
 | **Finmo** | Software Engineering Intern · NestJS · TypeScript | [![View](https://img.shields.io/badge/View%20Certificate-Google%20Drive-4285F4?logo=google-drive&logoColor=white&style=flat-square)](https://drive.google.com/file/d/1KuRAAZS0p3rQ8WUjwNw5f8i_ibXtpAtS/view?usp=share_link) |
 | **Bhrigu Technologies** | Software Development Intern · Data Science | [![View](https://img.shields.io/badge/View%20Certificate-Google%20Drive-4285F4?logo=google-drive&logoColor=white&style=flat-square)](https://drive.google.com/file/d/1hnj2cKKR9u1IbpZheeYiZ6hkkAw5T6rz/view?usp=sharing) |
 | **Varcons Technologies** | Research & Dev Intern | [![View](https://img.shields.io/badge/View%20Certificate-Google%20Drive-4285F4?logo=google-drive&logoColor=white&style=flat-square)](https://drive.google.com/file/d/1EOS7cnMfu0_EasRj0V94GG6IukP5i2yg/view?usp=sharing) |
+
+---
+
+## Achievements
+
+- Solved **250+ algorithmic problems** across LeetCode, CodeChef, and HackerRank
 
 ---
 
@@ -110,15 +134,24 @@ Full-stack software engineer with a B.E. in Computer Science (VTU, 2026), active
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan3131&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" height="160" />
 </div>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=darshan3131&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/darshan3131/darshan3131/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+> The animated snake graph above needs a one-time GitHub Action set up on your profile repo (`darshan3131/darshan3131`) — see `snake-workflow.yml` for the config to add.
 
 ---
 
 <div align="center">
 
-**Actively interviewing for SDE / Backend / Full-Stack roles in Bengaluru**  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:00D4FF&height=150&section=footer&animation=fadeIn" width="100%"/>
+
+**Actively interviewing for SDE / Backend / Full-Stack roles in Bengaluru**
 `Java` · `Spring Boot` · `REST APIs` · `MySQL` · `Redis` · `Kafka` · `System Design`
 
 *Let's connect → [LinkedIn](https://www.linkedin.com/in/darshan-kc-531484245/) · [Email](mailto:darshansiddarth05@gmail.com) · [Portfolio](https://adorable-lokum-8a5b2a.netlify.app)*
