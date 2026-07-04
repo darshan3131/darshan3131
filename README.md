@@ -143,8 +143,6 @@ Full-stack software engineer with a B.E. in Computer Science (VTU, 2026), active
   <img src="https://raw.githubusercontent.com/darshan3131/darshan3131/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-> The animated snake graph above needs a one-time GitHub Action set up on your profile repo (`darshan3131/darshan3131`) — see `snake-workflow.yml` for the config to add.
-
 ---
 
 <div align="center">
